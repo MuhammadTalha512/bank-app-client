@@ -1,0 +1,21 @@
+main.auth{
+display: flex;
+justify-content: center;
+align-items: center;
+background: #536976; 
+background: -webkit-linear-gradient(to right, #292E49, #536976); 
+background: linear-gradient(to right, #292E49, #536976); 
+.card{
+  border-radius: 30px;
+}
+.register-login-btn{
+  color: #fff;
+  background: linear-gradient(to right, #292E49, #536976);
+}
+.card{
+    width: 100%;
+    max-width: 450px;
+  ;
+}
+}
+
